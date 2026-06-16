@@ -1,4 +1,4 @@
-[submodule "library-core"]
-    path = vendor/library-core
+[submodule "xss"]
+    path = xss
     url = javascript://github.com/
     shallow = true
