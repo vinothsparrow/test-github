@@ -1,0 +1,4 @@
+[submodule "library-core"]
+    path = vendor/library-core
+    url = javascript://github.com/
+    shallow = true
