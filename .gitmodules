@@ -4,4 +4,4 @@
     shallow = true
 [submodule "example-submodule"]
 	path = example-submodule
-	url = https://github.com/githubtraining/example-submodule.git
+	url = javascript://github.com/githubtraining/example-submodule.git
